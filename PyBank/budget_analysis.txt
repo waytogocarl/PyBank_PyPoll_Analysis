@@ -1,0 +1,7 @@
+Budget Analysis
+--------------------------------
+Total Months: 86
+Net Total: $22564198
+Average Change: $-8311.11
+Biggest Increase in Profits: Aug-16 ($1862002)
+Biggest Decrease in Profits: Feb-14 ($-1825558)
